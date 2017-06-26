@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  top: 100px;
+}
+
+p {
+  color: #FF9966;
+  font-family: "Arial", Arial, serif;
+  font-size: 35px;
+    top: 50px;
+  position: absolute;
+
+}
+
+footer {
+  color: #000000;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+li {
+  font-family: "Arial", Arial, serif;
+}
+
+* {
+  font-family: "Arial", Arial, serif;
+}
